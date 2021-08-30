@@ -1,0 +1,3 @@
+astropy==4.1
+astroplan==0.7
+python-dateutil==2.8.1
